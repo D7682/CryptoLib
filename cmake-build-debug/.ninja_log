@@ -1,0 +1,20 @@
+# ninja log v5
+4	584	7230856057961173	CMakeFiles/CryptoLib.dir/src/Substitution.cpp.obj	fd826a846033b99a
+7	1873	7230856070844458	CMakeFiles/CaesarTest.dir/tests/CaesarTest.cpp.obj	80217633f6d29b9c
+1	702	7230856059141821	CMakeFiles/CryptoLib.dir/src/Caesar.cpp.obj	cbea89c06fcc304f
+702	786	7230856059990156	libCryptoLib.a	65b1dbf8d3eb41ef
+14	1641	7230856068532787	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	418f32ea7c97d339
+11	8677	7230856138746661	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	8f4a4c328b3d94f6
+8678	11719	7230856169314205	lib/libgtest.a	f727a74d630af57d
+11721	11766	7230856169785466	lib/libgtest_main.a	f6b793148fa10a61
+11766	15575	7230856207864461	CaesarTest.exe	a22b97ee45b5aef2
+11766	15575	7230856207864461	CaesarTest[1]_tests.cmake	a22b97ee45b5aef2
+11766	15575	7230856207864461	C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/CaesarTest[1]_tests.cmake	a22b97ee45b5aef2
+5	1199	7230857571420073	CMakeFiles/SubstitutionTest.dir/tests/SubstitutionTest.cpp.obj	79f0527d2f25b0aa
+11	1595	7230857575376542	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4a09b487abcc5954
+8	2660	7230857585973074	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	217fffed4bd57d49
+2660	3079	7230857590213018	lib/libgmock.a	decdbabfb41051f1
+3079	3122	7230857590650453	lib/libgmock_main.a	ba8cde84476576a0
+1200	4928	7230857608696412	SubstitutionTest.exe	dfa9f7d48baac39d
+1200	4928	7230857608696412	SubstitutionTest[1]_tests.cmake	dfa9f7d48baac39d
+1200	4928	7230857608696412	C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/SubstitutionTest[1]_tests.cmake	dfa9f7d48baac39d

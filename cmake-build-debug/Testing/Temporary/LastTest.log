@@ -1,0 +1,113 @@
+Start testing: Nov 30 16:16 Central Standard Time
+----------------------------------------------------------
+1/4 Testing: Caesar.DefaultConstructor
+1/4 Test: Caesar.DefaultConstructor
+Command: "C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/CaesarTest.exe" "--gtest_filter=Caesar.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug
+"Caesar.DefaultConstructor" start time: Nov 30 16:16 Central Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Caesar.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Caesar
+[ RUN      ] Caesar.DefaultConstructor
+[       OK ] Caesar.DefaultConstructor (0 ms)
+[----------] 1 test from Caesar (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Caesar.DefaultConstructor" end time: Nov 30 16:16 Central Standard Time
+"Caesar.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: Caesar.getShift
+2/4 Test: Caesar.getShift
+Command: "C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/CaesarTest.exe" "--gtest_filter=Caesar.getShift" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug
+"Caesar.getShift" start time: Nov 30 16:16 Central Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Caesar.getShift
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Caesar
+[ RUN      ] Caesar.getShift
+[       OK ] Caesar.getShift (0 ms)
+[----------] 1 test from Caesar (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Caesar.getShift" end time: Nov 30 16:16 Central Standard Time
+"Caesar.getShift" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: Caesar.Encrypt
+3/4 Test: Caesar.Encrypt
+Command: "C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/CaesarTest.exe" "--gtest_filter=Caesar.Encrypt" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug
+"Caesar.Encrypt" start time: Nov 30 16:16 Central Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Caesar.Encrypt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Caesar
+[ RUN      ] Caesar.Encrypt
+
+
+[       OK ] Caesar.Encrypt (0 ms)
+[----------] 1 test from Caesar (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Caesar.Encrypt" end time: Nov 30 16:16 Central Standard Time
+"Caesar.Encrypt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: Caesar.Decrypt
+4/4 Test: Caesar.Decrypt
+Command: "C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/CaesarTest.exe" "--gtest_filter=Caesar.Decrypt" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug
+"Caesar.Decrypt" start time: Nov 30 16:16 Central Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Caesar.Decrypt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Caesar
+[ RUN      ] Caesar.Decrypt
+[       OK ] Caesar.Decrypt (0 ms)
+[----------] 1 test from Caesar (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Caesar.Decrypt" end time: Nov 30 16:16 Central Standard Time
+"Caesar.Decrypt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 30 16:16 Central Standard Time

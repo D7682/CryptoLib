@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/SubstitutionTest[1]_tests.cmake")
+  include("C:/Users/danie/CLionProjects/CryptoLib/cmake-build-debug/SubstitutionTest[1]_tests.cmake")
+else()
+  add_test(SubstitutionTest_NOT_BUILT SubstitutionTest_NOT_BUILT)
+endif()
